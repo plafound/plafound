@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**plafound/plafound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Wahyu Surya Wisnugraha**.<br>
 
-Here are some ideas to get you started:
+Saya seorang *Freshgraduate* Teknik Informatika Universitas Nusantara PGRI Kediri <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya terampil dalam bidang **Pemrograman Development**, **Database Administrator**, serta memiliki keahlian dalam penggunaan **Microsoft Office** dan Software administrasi lainnya..<br>
+
+Saya tertarik dalam bidang **administrasi**, **perancangan dan pemrograman sistem**, **dokumentasi aplikasi**, **analisis data** dengan penerapan konsep statistik maupun data mining, **software testing** dan **manajemen database**. <br>
+
+Saya memiliki minat kerja dalam bidang yang berhubungan dengan IT meliputi **staff IT**, **IT Support**, **IT Consultant**, **Web Development**, **staff administrasi dan data entry**, serta di Dunia Design meliputi **Graphic Design dan UI/UX**
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/suryawisnugraha/)ku ya.
